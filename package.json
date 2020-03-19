@@ -1,0 +1,22 @@
+{
+  "name": "retodolist",
+  "version": "1.0.0",
+  "description": "todolist",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YagneshP/to-do-list-project.git"
+  },
+  "author": "yagnesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YagneshP/to-do-list-project/issues"
+  },
+  "homepage": "https://github.com/YagneshP/to-do-list-project#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
